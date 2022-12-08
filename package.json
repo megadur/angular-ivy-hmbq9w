@@ -22,6 +22,7 @@
     "angular-feather": "^6.5.0",
     "c": "^1.1.1",
     "ngx-bootstrap": "^9.0.0",
+    "ngx-bootstrap/modal": "*",
     "oidc-client": "^1.11.5",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
